@@ -1,0 +1,129 @@
+$date
+	Sat Oct 24 23:23:34 2020
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module testbench $end
+$var wire 12 ! Q [11:0] $end
+$var reg 1 " ENABLE $end
+$var reg 12 # LOAD [11:0] $end
+$var reg 1 $ clk $end
+$var reg 1 % nonblck $end
+$var reg 1 & reset $end
+$scope module CONT $end
+$var wire 1 " ENABLE $end
+$var wire 12 ' LOAD [11:0] $end
+$var wire 1 $ clk $end
+$var wire 1 % nonblck $end
+$var wire 1 & reset $end
+$var reg 12 ( Q [11:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+bx (
+bx '
+x&
+x%
+1$
+bx #
+x"
+bx !
+$end
+#1
+b0 #
+b0 '
+0%
+0"
+0&
+0$
+#2
+b0 !
+b0 (
+1&
+1$
+#3
+0&
+0$
+#4
+b1 !
+b1 (
+1"
+1$
+#5
+0$
+#6
+b10 !
+b10 (
+1$
+#7
+0"
+0$
+#8
+b100000 !
+b100000 (
+b100000 #
+b100000 '
+1%
+1$
+#9
+b0 #
+b0 '
+0%
+1"
+0$
+#10
+b100001 !
+b100001 (
+1$
+#11
+0$
+#12
+b100010 !
+b100010 (
+1$
+#13
+b100000000 !
+b100000000 (
+b100000000 #
+b100000000 '
+1%
+0"
+0$
+#14
+b100000001 !
+b100000001 (
+b0 #
+b0 '
+0%
+1"
+1$
+#15
+0$
+#16
+b100000010 !
+b100000010 (
+1$
+#17
+b0 !
+b0 (
+0"
+1&
+0$
+#18
+b1 !
+b1 (
+1"
+0&
+1$
+#19
+0$
+#20
+b10 !
+b10 (
+1$

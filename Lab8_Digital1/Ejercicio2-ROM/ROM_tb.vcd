@@ -1,0 +1,81 @@
+$date
+	Sat Oct 24 23:23:50 2020
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module testbench $end
+$var wire 8 ! Datos [7:0] $end
+$var reg 12 " Lectura [11:0] $end
+$scope module M_R $end
+$var wire 8 # Datos [7:0] $end
+$var wire 12 $ Lectura [11:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+bx $
+bx #
+bx "
+bx !
+$end
+#1
+b10010001 !
+b10010001 #
+b0 "
+b0 $
+#3
+b11 !
+b11 #
+b1 "
+b1 $
+#4
+b1001100 !
+b1001100 #
+b10 "
+b10 $
+#5
+b11011011 !
+b11011011 #
+b11 "
+b11 $
+#6
+b1 !
+b1 #
+b100 "
+b100 $
+#7
+b10111111 !
+b10111111 #
+b101 "
+b101 $
+#8
+b11110000 !
+b11110000 #
+b110 "
+b110 $
+#9
+b10101010 !
+b10101010 #
+b111 "
+b111 $
+#10
+b1010111 !
+b1010111 #
+b1000 "
+b1000 $
+#11
+b11000011 !
+b11000011 #
+b1001 "
+b1001 $
+#12
+bx !
+bx #
+b1010 "
+b1010 $
+#30
