@@ -1,0 +1,191 @@
+$date
+	Sat Oct 31 09:09:16 2020
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module testbench $end
+$var wire 7 ! Output [6:0] $end
+$var reg 7 " Input [6:0] $end
+$var reg 1 # enable $end
+$scope module rom_i $end
+$var wire 7 $ Input [6:0] $end
+$var wire 1 # enable $end
+$var reg 7 % Output [6:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+bx %
+bx $
+x#
+bx "
+bx !
+$end
+#1
+b0 !
+b0 %
+b0 "
+b0 $
+0#
+#3
+b1000 !
+b1000 %
+bx0 "
+bx0 $
+1#
+#5
+b1000 !
+b1000 %
+b101 "
+b101 $
+#7
+b1000 !
+b1000 %
+b101010 "
+b101010 $
+#9
+b1000 !
+b1000 %
+b0x1 "
+b0x1 $
+#11
+b1000 !
+b1000 %
+b11x1 "
+b11x1 $
+#13
+b1000 !
+b1000 %
+b1x1 "
+b1x1 $
+#15
+b1000 !
+b1000 %
+b11xx1 "
+b11xx1 $
+#17
+b1000 !
+b1000 %
+b11x1 "
+b11x1 $
+#19
+b1000 !
+b1000 %
+b10xx1 "
+b10xx1 $
+#21
+b10 !
+b10 %
+b100xx1 "
+b100xx1 $
+#23
+b100000 !
+b100000 %
+b110xx1 "
+b110xx1 $
+#25
+b100 !
+b100 %
+b101xx1 "
+b101xx1 $
+#27
+b1000 !
+b1000 %
+b1001x01 "
+b1001x01 $
+#29
+b111000 !
+b111000 %
+b111xx1 "
+b111xx1 $
+#31
+b1000 !
+b1000 %
+b1001x11 "
+b1001x11 $
+#33
+b1000 !
+b1000 %
+b1000x11 "
+b1000x11 $
+#35
+b10 !
+b10 %
+b1110xx1 "
+b1110xx1 $
+#37
+b1000 !
+b1000 %
+b1000x01 "
+b1000x01 $
+#39
+b1000010 !
+b1000010 %
+b1010xx1 "
+b1010xx1 $
+#41
+b1001 !
+b1001 %
+b1101xx1 "
+b1101xx1 $
+#43
+b1100000 !
+b1100000 %
+b1011xx1 "
+b1011xx1 $
+#45
+b1000 !
+b1000 %
+b1100xx1 "
+b1100xx1 $
+#47
+b1000 !
+b1000 %
+b10xx1 "
+b10xx1 $
+#49
+b100000 !
+b100000 %
+b110xx1 "
+b110xx1 $
+#51
+b1000 !
+b1000 %
+bx1xx "
+bx1xx $
+#53
+b1000 !
+b1000 %
+b0xx1 "
+b0xx1 $
+#55
+b1000 !
+b1000 %
+bx10xx1 "
+bx10xx1 $
+#57
+b1000 !
+b1000 %
+b10x10x1 "
+b10x10x1 $
+#59
+b1000010 !
+b1000010 %
+b1x10xx1 "
+b1x10xx1 $
+#61
+b1000 !
+b1000 %
+b1xx1xx1 "
+b1xx1xx1 $
+#63
+b1001 !
+b1001 %
+b11x1x01 "
+b11x1x01 $
+#100

@@ -1,0 +1,134 @@
+$date
+	Sat Oct 31 02:30:13 2020
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module testbench $end
+$var wire 1 ! Q $end
+$var reg 1 " clk $end
+$var reg 1 # enable $end
+$var reg 1 $ reset $end
+$scope module fftt1b $end
+$var wire 1 " clk $end
+$var wire 1 # enable $end
+$var wire 1 $ reset $end
+$var wire 1 ! Q $end
+$scope module ffd1b $end
+$var wire 1 % D $end
+$var wire 1 " clk $end
+$var wire 1 # enable $end
+$var wire 1 $ reset $end
+$var reg 1 ! Q $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+x%
+x$
+x#
+1"
+x!
+$end
+#1
+0#
+0$
+0"
+#2
+1%
+0!
+1$
+1"
+#3
+1#
+0$
+0"
+#4
+0#
+1"
+#5
+0"
+#6
+0%
+1!
+1#
+1"
+#7
+0"
+#8
+1%
+0!
+1"
+#9
+0"
+#10
+0#
+1$
+1"
+#11
+0$
+0"
+#12
+0%
+1!
+1#
+1"
+#13
+0"
+#14
+1%
+0!
+1"
+#15
+0"
+#16
+0%
+1!
+1"
+#17
+0"
+#18
+1%
+0!
+1"
+#19
+0"
+#20
+0%
+1!
+1"
+#21
+0"
+#22
+1%
+0!
+1"
+#23
+0"
+#24
+0%
+1!
+1"
+#25
+0"
+#26
+1%
+0!
+1"
+#27
+0"
+#28
+0%
+1!
+1"
+#29
+0"
+#30
+1%
+0!
+1"
